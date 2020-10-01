@@ -1,0 +1,37 @@
+.section-two-card{
+    background-color: #1F214D;
+    padding: 0px;
+    border: none;
+}
+
+.section-two-card-body{
+    background-color: #1F214D;
+    padding: 0px;
+}
+
+.iframe-carousel {
+    width: 100%;
+}
+
+.carousel {
+    padding-top: 10px;
+    width: 100%;
+    height: 100%;
+    overflow-x: scroll;
+}
+
+.carousel-indicators li {
+    position: relative;
+    background-color: pink;
+    height: 20px;
+    top: -100px;
+  }
+
+
+.modal-content {
+    background-color: transparent;
+}
+
+.modal-body {
+    background-color: transparent;
+}
