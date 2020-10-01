@@ -1,0 +1,17 @@
+
+    <div className="mission-list">
+    <ListGroup className="list-group-flush">
+      <ListGroupItem>
+        <Example mission="Smart Lander Investigation the Moon (SLIM)" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=SLIM%20-%20Smart%20Lander%20for%20Investigating%20Moon&search=SLIM%20-%20Smart%20Lander%20for%20Investigating%20Moon"></Example> Lunar Polar Exploration Mission (LUPEX), and <Example mission="Gateway" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=Lunar%20Gateway&search=Lunar%20Gateway"></Example> missions
+      </ListGroupItem>
+      <ListGroupItem><Example mission="VIPER" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=VIPER%20-%20Volatiles%20Investigating%20Polar%20Exploration%20Rover&search=VIPER%20-%20Volatiles%20Investigating%20Polar%20Exploration%20Rover"></Example> - water is so important to sustainability; <Example mission="CAPSTONE" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=CAPSTONE%20-%20Cislunar%20Autonomous%20Positioning%20System%20Technology%20Operations%20and%20Navigation%20Experiment&search=CAPSTONE%20-%20Cislunar%20Autonomous%20Positioning%20System%20Technology%20Operations%20and%20Navigation%20Experiment"></Example> - to map the Gateway orbit and validate astrodynamics and environmental assumptions</ListGroupItem>
+      <ListGroupItem>Small satellite capability in lunar orbit – JPL's <Example mission="Lunar Flashlight" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=Artemis-1&search=Lunar%20Flashlight%20(LF)%2CLunar%20IceCube%2COrion%20Vehicle%2CSpace%20Launch%20System"></Example> and <Example mission="Lunar Trailblazer" url="https://lunar-open-architecture.netlify.app/?year=2028&mission=Lunar%20Trailblazer&search=Lunar%20Trailblazer"></Example> – , and <Example mission="communications and navigation" url="https://lunar-open-architecture.netlify.app/?viz=objectives&objective=Objective%20FF-A-8"></Example> capability development in lunar orbit</ListGroupItem>
+      <ListGroupItem>
+        1. Falcon Heavy re-use - significant cost reduction.
+        2. Perseverance - collection of Mars rock-core samples for return to Earth.
+        3. New Glenn operational - big LEO launch.
+        4. LEO adventure travel.
+        5. Resumption of lunar surface exploration.
+      </ListGroupItem>
+    </ListGroup>
+  </div>

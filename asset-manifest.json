@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/collective-envisioning/static/css/main.4a1ad1de.chunk.css",
+    "main.js": "/collective-envisioning/static/js/main.e8778ab4.chunk.js",
+    "main.js.map": "/collective-envisioning/static/js/main.e8778ab4.chunk.js.map",
+    "runtime-main.js": "/collective-envisioning/static/js/runtime-main.3ac7188e.js",
+    "runtime-main.js.map": "/collective-envisioning/static/js/runtime-main.3ac7188e.js.map",
+    "static/js/2.f42996aa.chunk.js": "/collective-envisioning/static/js/2.f42996aa.chunk.js",
+    "static/js/2.f42996aa.chunk.js.map": "/collective-envisioning/static/js/2.f42996aa.chunk.js.map",
+    "index.html": "/collective-envisioning/index.html",
+    "precache-manifest.7ae15a42d0b470be1c0877bc683e8608.js": "/collective-envisioning/precache-manifest.7ae15a42d0b470be1c0877bc683e8608.js",
+    "service-worker.js": "/collective-envisioning/service-worker.js",
+    "static/css/main.4a1ad1de.chunk.css.map": "/collective-envisioning/static/css/main.4a1ad1de.chunk.css.map",
+    "static/js/2.f42996aa.chunk.js.LICENSE.txt": "/collective-envisioning/static/js/2.f42996aa.chunk.js.LICENSE.txt",
+    "static/media/LOA_orbit_logo.png": "/collective-envisioning/static/media/LOA_orbit_logo.8aeef623.png",
+    "static/media/Section-Two": "/collective-envisioning/static/media/Section-Two.c17d16fb.bin",
+    "static/media/crew.png": "/collective-envisioning/static/media/crew.17007b68.png",
+    "static/media/exploration.png": "/collective-envisioning/static/media/exploration.e5360f92.png",
+    "static/media/gateway.png": "/collective-envisioning/static/media/gateway.55d5c934.png",
+    "static/media/launch.png": "/collective-envisioning/static/media/launch.d36aba44.png",
+    "static/media/power.png": "/collective-envisioning/static/media/power.dc18c36e.png",
+    "static/media/surfaceMobility.png": "/collective-envisioning/static/media/surfaceMobility.f82f7df5.png",
+    "static/media/surfaceSettlement.png": "/collective-envisioning/static/media/surfaceSettlement.38b2d8c0.png",
+    "static/media/turningpoint.png": "/collective-envisioning/static/media/turningpoint.8cd3bc61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac7188e.js",
+    "static/js/2.f42996aa.chunk.js",
+    "static/css/main.4a1ad1de.chunk.css",
+    "static/js/main.e8778ab4.chunk.js"
+  ]
+}
