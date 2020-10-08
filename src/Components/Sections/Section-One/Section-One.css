@@ -1,10 +1,11 @@
-.card-group {
+.section-one-block{
     display: flex;
-    flex-direction: row;
 }
 
 .card {
     background-color: #1F214D;
+    border: none;
+    padding-bottom: 20px;
 
 }
 .card-header {
@@ -16,11 +17,6 @@
     border: none;
 }
 
-.list-group {
-    max-height: 50vh;
-    overflow-y: scroll;
-}
-
 .list-group-item{
     font-size: 20px;
     background-color: #1F214D;;
@@ -30,8 +26,34 @@
     padding-top: 20px;
 }
 
+
+.stick {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 20%;
+}
+
+.modal-button {
+    color: #91AAE5;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    padding: 5px;
+    vertical-align: baseline;
+}
+
 @media screen and (max-width: 700px) {
     .card-group {
         flex-direction: column;
+    }
+    .section-one-block {
+        flex-direction: column-reverse;
+    }
+    .list-group-item {
+        font-size: 15px;
+    }
+    .modal-button {
+        font-size: 15px;
     }
     }

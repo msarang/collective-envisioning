@@ -18,7 +18,7 @@ export class Child extends React.Component {
         <ButtonGroup vertical className="button-list-group" onClick={this.handleChange}>
             <Button 
             value="0"
-            className="list-button" active>
+            className="list-button">
               Exploration Destinations
             </Button>
 

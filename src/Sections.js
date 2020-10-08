@@ -6,8 +6,6 @@ import { SectionOne } from './Components/Sections/Section-One/Section-One';
 import { SectionTwo } from './Components/Sections/Section-Two/Section-Two';
 import { SectionThree } from './Components/Sections/Section-Three/Section-Three';
 import { SectionFour } from './Components/Sections/Section-Four/Section-Four';
-import { SectionFive } from './Components/Sections/Section-Five/Section-Five';
-
 
 export default function Sections() {
   return (
@@ -29,14 +27,10 @@ export default function Sections() {
           <SectionTwo />
         </Col>
         <Col className="section">
-        <h2 className="heading-two">Mission Architecture Prioritization</h2>
           <SectionThree />
         </Col>
         <Col className="section">
           <SectionFour />
-        </Col>
-        <Col className="section">
-          <SectionFive />
         </Col>
 
       </Row>

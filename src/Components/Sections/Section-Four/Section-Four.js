@@ -4,7 +4,7 @@ import {Card, ListGroup, CardGroup} from "react-bootstrap";
 export const SectionFour = () => (
   <React.Fragment>
       <h2 className="heading-two">What do you hope to see happen in 2021 that seems unlikely at the moment? What would it take to make that a possibility?</h2>
-      <CardGroup style={{width:'50%'}}>
+      <CardGroup style={{width:'100%'}}>
 
         <Card style={{ width: 'auto' }}>
           <ListGroup variant="flush">
@@ -19,6 +19,8 @@ export const SectionFour = () => (
         </Card>
 
       </CardGroup>
+
+      
     </React.Fragment>
 )
 

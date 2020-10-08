@@ -1,7 +1,8 @@
 import React from 'react';
-import {CardGroup, Card, Carousel, CarouselItem, ListGroup, ListGroupItem} from 'react-bootstrap';
+import {Card, Carousel, ListGroup, ListGroupItem} from 'react-bootstrap';
 import Iframe from 'react-iframe';
 import './Section-Two.css';
+
 
 export const SectionTwo = () => (
     <React.Fragment>
