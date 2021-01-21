@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c3132f168da8b8b866e994a4e6a0acd",
+    "revision": "06616a10edf4177f47793db45c23c1f1",
     "url": "/collective-envisioning/index.html"
   },
   {
-    "revision": "9e809cb1dd1710efa604",
-    "url": "/collective-envisioning/static/css/main.f1c28afa.chunk.css"
+    "revision": "17739c87af3e1691f53b",
+    "url": "/collective-envisioning/static/css/main.d34d4751.chunk.css"
   },
   {
     "revision": "32db5293491e0eec8b3a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collective-envisioning/static/js/2.a94e93e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e809cb1dd1710efa604",
-    "url": "/collective-envisioning/static/js/main.2b8f1f3a.chunk.js"
+    "revision": "17739c87af3e1691f53b",
+    "url": "/collective-envisioning/static/js/main.ec8b9fdf.chunk.js"
   },
   {
     "revision": "cbccb9f21301816cd9f3",
