@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/collective-envisioning/static/css/main.7fcd0d4e.chunk.css",
-    "main.js": "/collective-envisioning/static/js/main.188af9e4.chunk.js",
-    "main.js.map": "/collective-envisioning/static/js/main.188af9e4.chunk.js.map",
+    "main.css": "/collective-envisioning/static/css/main.f1c28afa.chunk.css",
+    "main.js": "/collective-envisioning/static/js/main.2b8f1f3a.chunk.js",
+    "main.js.map": "/collective-envisioning/static/js/main.2b8f1f3a.chunk.js.map",
     "runtime-main.js": "/collective-envisioning/static/js/runtime-main.3ac7188e.js",
     "runtime-main.js.map": "/collective-envisioning/static/js/runtime-main.3ac7188e.js.map",
-    "static/js/2.d2fb84ca.chunk.js": "/collective-envisioning/static/js/2.d2fb84ca.chunk.js",
-    "static/js/2.d2fb84ca.chunk.js.map": "/collective-envisioning/static/js/2.d2fb84ca.chunk.js.map",
+    "static/js/2.a94e93e1.chunk.js": "/collective-envisioning/static/js/2.a94e93e1.chunk.js",
+    "static/js/2.a94e93e1.chunk.js.map": "/collective-envisioning/static/js/2.a94e93e1.chunk.js.map",
     "index.html": "/collective-envisioning/index.html",
-    "precache-manifest.28199b5fbe87e49d0b2f2d8cb8ff4d69.js": "/collective-envisioning/precache-manifest.28199b5fbe87e49d0b2f2d8cb8ff4d69.js",
+    "precache-manifest.c44853b12b9875a9b93ab969d8a064b8.js": "/collective-envisioning/precache-manifest.c44853b12b9875a9b93ab969d8a064b8.js",
     "service-worker.js": "/collective-envisioning/service-worker.js",
-    "static/css/main.7fcd0d4e.chunk.css.map": "/collective-envisioning/static/css/main.7fcd0d4e.chunk.css.map",
-    "static/js/2.d2fb84ca.chunk.js.LICENSE.txt": "/collective-envisioning/static/js/2.d2fb84ca.chunk.js.LICENSE.txt",
+    "static/css/main.f1c28afa.chunk.css.map": "/collective-envisioning/static/css/main.f1c28afa.chunk.css.map",
+    "static/js/2.a94e93e1.chunk.js.LICENSE.txt": "/collective-envisioning/static/js/2.a94e93e1.chunk.js.LICENSE.txt",
     "static/media/LOA_orbit_logo.png": "/collective-envisioning/static/media/LOA_orbit_logo.8aeef623.png",
     "static/media/crew.png": "/collective-envisioning/static/media/crew.17007b68.png",
     "static/media/exploration.png": "/collective-envisioning/static/media/exploration.e5360f92.png",
     "static/media/gateway.png": "/collective-envisioning/static/media/gateway.55d5c934.png",
     "static/media/launch.png": "/collective-envisioning/static/media/launch.d36aba44.png",
+    "static/media/laurini.jpg": "/collective-envisioning/static/media/laurini.ddd5a28b.jpg",
+    "static/media/lindy.jpg": "/collective-envisioning/static/media/lindy.7f333472.jpg",
     "static/media/power.png": "/collective-envisioning/static/media/power.dc18c36e.png",
     "static/media/rob.jpeg": "/collective-envisioning/static/media/rob.c24dcdd1.jpeg",
     "static/media/surfaceMobility.png": "/collective-envisioning/static/media/surfaceMobility.f82f7df5.png",
-    "static/media/surfaceSettlement.png": "/collective-envisioning/static/media/surfaceSettlement.38b2d8c0.png",
-    "static/media/turningpoint.png": "/collective-envisioning/static/media/turningpoint.8cd3bc61.png"
+    "static/media/surfaceSettlement.png": "/collective-envisioning/static/media/surfaceSettlement.38b2d8c0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3ac7188e.js",
-    "static/js/2.d2fb84ca.chunk.js",
-    "static/css/main.7fcd0d4e.chunk.css",
-    "static/js/main.188af9e4.chunk.js"
+    "static/js/2.a94e93e1.chunk.js",
+    "static/css/main.f1c28afa.chunk.css",
+    "static/js/main.2b8f1f3a.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "118f110282e90c0c1400d8ac9e7df381",
+    "revision": "3c3132f168da8b8b866e994a4e6a0acd",
     "url": "/collective-envisioning/index.html"
   },
   {
-    "revision": "f1cb8d65df973d67114f",
-    "url": "/collective-envisioning/static/css/main.7fcd0d4e.chunk.css"
+    "revision": "9e809cb1dd1710efa604",
+    "url": "/collective-envisioning/static/css/main.f1c28afa.chunk.css"
   },
   {
-    "revision": "53db6f3cc8ac2c527d23",
-    "url": "/collective-envisioning/static/js/2.d2fb84ca.chunk.js"
+    "revision": "32db5293491e0eec8b3a",
+    "url": "/collective-envisioning/static/js/2.a94e93e1.chunk.js"
   },
   {
     "revision": "524a79f994a9ab70208fead9f4133d4f",
-    "url": "/collective-envisioning/static/js/2.d2fb84ca.chunk.js.LICENSE.txt"
+    "url": "/collective-envisioning/static/js/2.a94e93e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1cb8d65df973d67114f",
-    "url": "/collective-envisioning/static/js/main.188af9e4.chunk.js"
+    "revision": "9e809cb1dd1710efa604",
+    "url": "/collective-envisioning/static/js/main.2b8f1f3a.chunk.js"
   },
   {
     "revision": "cbccb9f21301816cd9f3",
@@ -44,6 +44,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collective-envisioning/static/media/launch.d36aba44.png"
   },
   {
+    "revision": "ddd5a28b87d4035e58414415b30e3be1",
+    "url": "/collective-envisioning/static/media/laurini.ddd5a28b.jpg"
+  },
+  {
+    "revision": "7f3334729cd42efcb83c8e02f2311d97",
+    "url": "/collective-envisioning/static/media/lindy.7f333472.jpg"
+  },
+  {
     "revision": "dc18c36eab438e8bbe5a216a7ea4f8e2",
     "url": "/collective-envisioning/static/media/power.dc18c36e.png"
   },
@@ -58,9 +66,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "38b2d8c0f892a00e187ee5bba853fe48",
     "url": "/collective-envisioning/static/media/surfaceSettlement.38b2d8c0.png"
-  },
-  {
-    "revision": "8cd3bc6104b3e383d21c95a2159d413b",
-    "url": "/collective-envisioning/static/media/turningpoint.8cd3bc61.png"
   }
 ]);
