@@ -15,24 +15,24 @@ export default function Sections() {
           <Navbar.Brand href="https://loa.mit.edu">Lunar Open Architecture</Navbar.Brand>
         </Navbar>
       
-      <Row className="hero">
+      <Row>
         <Hero />
       </Row>
 
-      <Row className="second-background">
-        <Col className="section">
-          <SectionOne />
-        </Col>
-        <Col className="section">
-          <SectionTwo />
-        </Col>
-        <Col className="section">
-          <SectionThree />
-        </Col>
-        <Col className="section">
-          <SectionFour />
-        </Col>
+      <Row>
+        <SectionOne />
+      </Row>
 
+      <Row> 
+        <SectionTwo />
+      </Row>
+
+      <Row>       
+        <SectionThree />
+      </Row>
+
+      <Row>
+        <SectionFour/>
       </Row>
     </Container>
   );

@@ -5,7 +5,7 @@ import './Section-Two.css';
 
 
 export const SectionTwo = () => (
-    <React.Fragment>
+    <div className="section-two-wrapper">
       <h2 className="heading-two">Which upcoming or recent missions stand out in particular?</h2>
       <Carousel>
         <Carousel.Item>
@@ -86,6 +86,6 @@ export const SectionTwo = () => (
     </Carousel>
 
  
-    </React.Fragment>
+    </div>
 )
 

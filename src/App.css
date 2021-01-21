@@ -33,15 +33,7 @@
 }
 
 .section {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-}
 
-.col {
-  margin-top: 100px;
-  height: max-content;
 }
 
 .heading-one {

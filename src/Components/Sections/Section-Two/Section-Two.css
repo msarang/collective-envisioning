@@ -1,4 +1,12 @@
+.section-two-wrapper {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    padding-left: 5%;
+}
 .section-two-card{
+    display: flex;
+    align-items: center;
     background-color: #1F214D;
     padding: 0px;
     border: none;
@@ -7,6 +15,8 @@
 .section-two-card-body{
     background-color: #1F214D;
     padding: 0px;
+    width: 80%;
+    height: 90%;
 }
 
 .iframe-carousel {

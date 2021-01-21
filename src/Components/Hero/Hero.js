@@ -6,20 +6,23 @@ import Martin from './elvis-lg.jpg'
 import Larry from './larry.jpg'
 import Rob from './rob.jpeg'
 import Daniel from './download (1).jpeg'
+import Lindy from './lindy.jpg'
+import Laurini from './laurini.jpg'
 
 export const Hero = () => (
   <div className="hero">
+    
     <div className="hero-section-one">
           <h1 className="heading-one">What's Next for Lunar Exploration?</h1>    
           <div className="image-container">
             <Image src={logo} className="logo" />
           </div>
-      <p className="body-text-black">By <b>MIT SPACE EXPLORATION INITIATIVE</b> | 10/06/20 05:00 PM EDT</p>
+      <p className="body-text-black">By <b>MIT SPACE EXPLORATION INITIATIVE</b> | 2/1/21 05:00 PM EDT</p>
     </div>
 
     <div className="hero-section-two">
     <h1 className="heading-one">The Respondents</h1>   
-      <p className="body-text-black">We asked 13 experts in the space industry for their take on the next year in lunar exploration.</p>
+      <p className="body-text-black">We asked 14 experts in the space industry for their take on the next year in lunar exploration.</p>
 
       <div className="respondents">
         <div className="respondent-plus-caption">
@@ -37,6 +40,16 @@ export const Hero = () => (
           <p className="body-text-black"><b>ROB MEYERSON</b><br></br>Delalune Space</p>
         </div>
 
+
+        <div className="respondent-plus-caption">
+          <Image src={Laurini} className="respondent-photo" roundedCircle/>
+          <p className="body-text-black"><b>KATHY LAURINI</b><br></br>Dynetics/HLS Lead, Payloads and Commercialization</p>
+        </div>
+
+        <div className="respondent-plus-caption">
+          <Image src={Lindy} className="respondent-photo" roundedCircle/>
+          <p className="body-text-black"><b>LINDY ELKINS-TANTON</b><br></br>PI, Pysche Mission</p>
+        </div>
 
         <div className="respondent-plus-caption">
           <Image src={Daniel} className="respondent-photo" roundedCircle/>
