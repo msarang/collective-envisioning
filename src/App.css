@@ -32,9 +32,6 @@
   text-align: center;
 }
 
-.section {
-
-}
 
 .heading-one {
   font-family: 'Cabin', sans-serif;
@@ -86,6 +83,12 @@
 .responses { 
   width: 50%;
 
+}
+
+.section-four {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10%;
 }
 
 
